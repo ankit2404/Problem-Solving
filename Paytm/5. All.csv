@@ -18,15 +18,15 @@ MEDIUM,Longest Substring Without Repeating Characters,67.3,https://leetcode.com/
 MEDIUM,3Sum,67.3,https://leetcode.com/problems/3sum,https://leetcode.com/problems/3sum/submissions/2018260313/,"Array, Two Pointers, Sorting"
 MEDIUM,Word Search,57.2,https://leetcode.com/problems/word-search,https://leetcode.com/problems/word-search/submissions/2018268568/,"Array, String, Backtracking, Depth-First Search, Matrix"
 MEDIUM,Largest Number,57.2,https://leetcode.com/problems/largest-number,https://leetcode.com/problems/largest-number/submissions/2018333245/,"Array, String, Greedy, Sorting"
-EASY,Reverse Linked List,57.2,https://leetcode.com/problems/reverse-linked-list,,"Linked List, Recursion"
-HARD,Trapping Rain Water,57.2,https://leetcode.com/problems/trapping-rain-water,,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Execute Asynchronous Functions in Parallel,57.2,https://leetcode.com/problems/execute-asynchronous-functions-in-parallel,,
-MEDIUM,Longest Consecutive Sequence,57.2,https://leetcode.com/problems/longest-consecutive-sequence,,"Array, Hash Table, Union Find"
-MEDIUM,Second Highest Salary,57.2,https://leetcode.com/problems/second-highest-salary,,Database
-MEDIUM,Product of Array Except Self,57.2,https://leetcode.com/problems/product-of-array-except-self,,"Array, Prefix Sum"
-MEDIUM,Best Time to Buy and Sell Stock II,57.2,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii,,"Array, Dynamic Programming, Greedy"
-MEDIUM,String Compression,57.2,https://leetcode.com/problems/string-compression,,"Two Pointers, String"
-MEDIUM,Sum of Subarray Minimums,57.2,https://leetcode.com/problems/sum-of-subarray-minimums,,"Array, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Search in Rotated Sorted Array,57.2,https://leetcode.com/problems/search-in-rotated-sorted-array,,"Array, Binary Search"
-MEDIUM,Find Minimum in Rotated Sorted Array,57.2,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array,,"Array, Binary Search"
+EASY,Reverse Linked List,57.2,https://leetcode.com/problems/reverse-linked-list,https://leetcode.com/problems/reverse-linked-list/submissions/2018340039/,"Linked List, Recursion"
+HARD,Trapping Rain Water,57.2,https://leetcode.com/problems/trapping-rain-water,https://leetcode.com/problems/trapping-rain-water/submissions/2018365710/,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Execute Asynchronous Functions in Parallel,57.2,https://leetcode.com/problems/execute-asynchronous-functions-in-parallel,https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/submissions/2018408050/,
+MEDIUM,Longest Consecutive Sequence,57.2,https://leetcode.com/problems/longest-consecutive-sequence,https://leetcode.com/problems/longest-consecutive-sequence/submissions/2018389287/,"Array, Hash Table, Union Find"
+MEDIUM,Second Highest Salary,57.2,https://leetcode.com/problems/second-highest-salary,https://leetcode.com/problems/second-highest-salary/submissions/2018415264/,Database
+MEDIUM,Product of Array Except Self,57.2,https://leetcode.com/problems/product-of-array-except-self,https://leetcode.com/problems/product-of-array-except-self/submissions/2018420609/,"Array, Prefix Sum"
+MEDIUM,Best Time to Buy and Sell Stock II,57.2,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/2018447110/,"Array, Dynamic Programming, Greedy"
+MEDIUM,String Compression,57.2,https://leetcode.com/problems/string-compression,https://leetcode.com/problems/string-compression/submissions/2018463357/,"Two Pointers, String"
+MEDIUM,Sum of Subarray Minimums,57.2,https://leetcode.com/problems/sum-of-subarray-minimums,https://leetcode.com/problems/sum-of-subarray-minimums/submissions/2023549862/,"Array, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Search in Rotated Sorted Array,57.2,https://leetcode.com/problems/search-in-rotated-sorted-array,https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/2023907999/,"Array, Binary Search"
+MEDIUM,Find Minimum in Rotated Sorted Array,57.2,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/2023939961/,"Array, Binary Search"
 ,,,,
